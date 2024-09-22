@@ -1,0 +1,3273 @@
+[
+    {
+      "country": "Belize",
+      "bestMonths": ["December", "January", "February", "March", "April", "May"],
+      "visaRequirements": {
+        "France": "Visa-free for up to 30 days",
+        "Portugal": "Visa required",
+        "Germany": "Visa-free for up to 30 days"
+      },
+      "vaccines": {
+        "mandatory": [],
+        "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+      }
+    },
+    {
+      "country": "Costa Rica",
+      "bestMonths": ["December", "January", "February", "March", "April"],
+      "visaRequirements": {
+        "France": "Visa-free for up to 90 days",
+        "Portugal": "Visa-free for up to 90 days",
+        "Germany": "Visa-free for up to 90 days"
+      },
+      "vaccines": {
+        "mandatory": [],
+        "recommended": ["Routine vaccinations", "Hepatitis A"]
+      }
+    },
+    {
+      "country": "El Salvador",
+      "bestMonths": ["November", "December", "January", "February", "March", "April"],
+      "visaRequirements": {
+        "France": "Visa-free for up to 90 days",
+        "Portugal": "Visa required",
+        "Germany": "Visa-free for up to 90 days"
+      },
+      "vaccines": {
+        "mandatory": [],
+        "recommended": ["Routine vaccinations", "Hepatitis A"]
+      }
+    },
+    {
+      "country": "Guatemala",
+      "bestMonths": ["November", "December", "January", "February", "March", "April"],
+      "visaRequirements": {
+        "France": "Visa-free for up to 90 days",
+        "Portugal": "Visa required",
+        "Germany": "Visa-free for up to 90 days"
+      },
+      "vaccines": {
+        "mandatory": [],
+        "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+      }
+    },
+    {
+      "country": "Honduras",
+      "bestMonths": ["December", "January", "February", "March", "April"],
+      "visaRequirements": {
+        "France": "Visa-free for up to 90 days",
+        "Portugal": "Visa required",
+        "Germany": "Visa-free for up to 90 days"
+      },
+      "vaccines": {
+        "mandatory": [],
+        "recommended": ["Routine vaccinations", "Hepatitis A"]
+      }
+    },
+    {
+      "country": "Nicaragua",
+      "bestMonths": ["December", "January", "February", "March", "April"],
+      "visaRequirements": {
+        "France": "Visa-free for up to 90 days",
+        "Portugal": "Visa required",
+        "Germany": "Visa-free for up to 90 days"
+      },
+      "vaccines": {
+        "mandatory": [],
+        "recommended": ["Routine vaccinations", "Hepatitis A"]
+      }
+    },
+    {
+      "country": "Panama",
+      "bestMonths": ["January", "February", "March", "April"],
+      "visaRequirements": {
+        "France": "Visa-free for up to 90 days",
+        "Portugal": "Visa required",
+        "Germany": "Visa-free for up to 90 days"
+      },
+      "vaccines": {
+        "mandatory": ["Yellow Fever (if coming from certain countries)"],
+        "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+      }
+    },
+
+
+
+
+
+
+
+
+   
+    {
+        "country": "Canada",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "eTA required",
+          "Portugal": "eTA required",
+          "Germany": "eTA required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "United States of America",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "ESTA required",
+          "Portugal": "ESTA required",
+          "Germany": "ESTA required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Greenland",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Part of Denmark (Schengen Area)",
+          "Portugal": "Part of Denmark (Schengen Area)",
+          "Germany": "Part of Denmark (Schengen Area)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Mexico",
+        "bestMonths": ["November", "December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 180 days",
+          "Portugal": "Visa-free for up to 180 days",
+          "Germany": "Visa-free for up to 180 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+
+
+
+
+
+
+
+
+
+
+      {
+        "country": "Argentina",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Bolivia",
+        "bestMonths": ["May", "June", "July", "August"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa required",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if visiting certain areas)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Brazil",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free (bilateral agreement)",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if visiting certain areas)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Chile",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Colombia",
+        "bestMonths": ["December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa required",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if visiting certain areas)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Ecuador",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if visiting Amazon region)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Guyana",
+        "bestMonths": ["September", "October", "November"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Paraguay",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa required",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if coming from certain countries)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Peru",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 183 days",
+          "Portugal": "Visa-free for up to 183 days",
+          "Germany": "Visa-free for up to 183 days"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if visiting Amazon region)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Suriname",
+        "bestMonths": ["August", "September", "October", "November"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Uruguay",
+        "bestMonths": ["December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Venezuela",
+        "bestMonths": ["December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "French Guiana",
+        "bestMonths": ["August", "September", "October", "November"],
+        "visaRequirements": {
+          "France": "Overseas department of France",
+          "Portugal": "Schengen visa required",
+          "Germany": "Schengen visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "country": "Albania",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Austria",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Home country"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Belgium",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa required",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Tick-borne encephalitis"]
+        }
+      },
+      {
+        "country": "Bulgaria",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "EU member (Visa-free)",
+          "Portugal": "EU member (Visa-free)",
+          "Germany": "EU member (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Tick-borne encephalitis"]
+        }
+      },
+      {
+        "country": "Croatia",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "EU member (Visa-free)",
+          "Portugal": "EU member (Visa-free)",
+          "Germany": "EU member (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Cyprus",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "EU member (Visa-free)",
+          "Portugal": "EU member (Visa-free)",
+          "Germany": "EU member (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Czech Republic",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Home country"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Tick-borne encephalitis"]
+        }
+      },
+      {
+        "country": "Denmark",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Estonia",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Tick-borne encephalitis"]
+        }
+      },
+      {
+        "country": "Finland",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Tick-borne encephalitis"]
+        }
+      },
+      {
+        "country": "France",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Home country",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Georgia",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 1 year",
+          "Portugal": "Visa-free for up to 1 year",
+          "Germany": "Visa-free for up to 1 year"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Germany",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Home country"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Greece",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Hungary",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Home country"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Tick-borne encephalitis"]
+        }
+      },
+      {
+        "country": "Iceland",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Ireland",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Italy",
+        "bestMonths": ["April", "May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Home country",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Kosovo",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa required",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Latvia",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Home country",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Tick-borne encephalitis"]
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 6 months",
+          "Portugal": "Visa-free for up to 6 months",
+          "Germany": "Visa-free for up to 6 months"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Belarus",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "country": "Australia",
+        "bestMonths": ["September", "October", "November", "March", "April", "May"],
+        "visaRequirements": {
+          "France": "eVisitor visa required",
+          "Portugal": "eVisitor visa required",
+          "Germany": "eVisitor visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Fiji",
+        "bestMonths": ["May", "June", "July", "August", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 4 months",
+          "Portugal": "Visa-free for up to 4 months",
+          "Germany": "Visa-free for up to 4 months"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "New Caledonia",
+        "bestMonths": ["September", "October", "November"],
+        "visaRequirements": {
+          "France": "Overseas territory of France",
+          "Portugal": "Schengen visa required",
+          "Germany": "Schengen visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "New Zealand",
+        "bestMonths": ["December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "NZeTA required",
+          "Portugal": "NZeTA required",
+          "Germany": "NZeTA required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Papua New Guinea",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa on arrival or eVisa",
+          "Portugal": "Visa on arrival or eVisa",
+          "Germany": "Visa on arrival or eVisa"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if coming from infected area)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Solomon Islands",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Vanuatu",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+
+      {
+        "country": "Lithuania",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Tick-borne encephalitis"]
+        }
+      },
+      {
+        "country": "Luxembourg",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Home country (if applicable)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Moldova",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Montenegro",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa required",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Netherlands",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Home country (if applicable)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "North Macedonia",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa required",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Norway",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Home country (if applicable)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Poland",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Home country (if applicable)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Tick-borne encephalitis"]
+        }
+      },
+      {
+        "country": "Portugal",
+        "bestMonths": ["April", "May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Home country",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Romania",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "EU member (Visa-free)",
+          "Portugal": "EU member (Visa-free)",
+          "Germany": "EU member (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Tick-borne encephalitis"]
+        }
+      },
+      {
+        "country": "Serbia",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa required",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Slovakia",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Home country (if applicable)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Tick-borne encephalitis"]
+        }
+      },
+      {
+        "country": "Slovenia",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Home country (if applicable)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Spain",
+        "bestMonths": ["April", "May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Home country (if applicable)",
+          "Germany": "Schengen Area (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Sweden",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Home country (if applicable)",
+          "Germany": "Home country (if applicable)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Tick-borne encephalitis"]
+        }
+      },
+      {
+        "country": "Switzerland",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Schengen Area (Visa-free)",
+          "Portugal": "Schengen Area (Visa-free)",
+          "Germany": "Home country (if applicable)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "country": "Afghanistan",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Polio", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Armenia",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 180 days",
+          "Portugal": "Visa-free for up to 180 days",
+          "Germany": "Visa-free for up to 180 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Azerbaijan",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Bahrain",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa on arrival or eVisa",
+          "Portugal": "Visa on arrival or eVisa",
+          "Germany": "Visa on arrival or eVisa"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Bangladesh",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": ["Polio (proof may be required)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Cholera", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Bhutan",
+        "bestMonths": ["March", "April", "May", "September", "October", "November"],
+        "visaRequirements": {
+          "France": "Visa required (arranged through tour operator)",
+          "Portugal": "Visa required (arranged through tour operator)",
+          "Germany": "Visa required (arranged through tour operator)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Brunei",
+        "bestMonths": ["February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Cambodia",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa on arrival or eVisa",
+          "Portugal": "Visa on arrival or eVisa",
+          "Germany": "Visa on arrival or eVisa"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "China",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if coming from infected area)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Cyprus",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "EU member (Visa-free)",
+          "Portugal": "EU member (Visa-free)",
+          "Germany": "EU member (Visa-free)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Georgia",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 1 year",
+          "Portugal": "Visa-free for up to 1 year",
+          "Germany": "Visa-free for up to 1 year"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "India",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Cholera", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Indonesia",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 30 days",
+          "Portugal": "Visa-free for up to 30 days",
+          "Germany": "Visa-free for up to 30 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Cholera", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Iran",
+        "bestMonths": ["March", "April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa on arrival or eVisa",
+          "Portugal": "Visa on arrival or eVisa",
+          "Germany": "Visa on arrival or eVisa"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Iraq",
+        "bestMonths": ["March", "April", "October", "November"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Polio (proof may be required)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Israel",
+        "bestMonths": ["March", "April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Japan",
+        "bestMonths": ["March", "April", "May", "October", "November"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Japanese encephalitis"]
+        }
+      },
+      {
+        "country": "Jordan",
+        "bestMonths": ["March", "April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Kazakhstan",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 30 days",
+          "Portugal": "Visa-free for up to 30 days",
+          "Germany": "Visa-free for up to 30 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Kuwait",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa on arrival or eVisa",
+          "Portugal": "Visa on arrival or eVisa",
+          "Germany": "Visa on arrival or eVisa"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Kyrgyzstan",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 60 days",
+          "Portugal": "Visa-free for up to 60 days",
+          "Germany": "Visa-free for up to 60 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Laos",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa on arrival or eVisa",
+          "Portugal": "Visa on arrival or eVisa",
+          "Germany": "Visa on arrival or eVisa"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Lebanon",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Malaysia",
+        "bestMonths": ["March", "April", "May", "June", "July", "August"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Maldives",
+        "bestMonths": ["December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa on arrival for 30 days",
+          "Portugal": "Visa on arrival for 30 days",
+          "Germany": "Visa on arrival for 30 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Mongolia",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 30 days",
+          "Portugal": "Visa required",
+          "Germany": "Visa-free for up to 30 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Myanmar",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Nepal",
+        "bestMonths": ["October", "November", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "North Korea",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa required (special restrictions)",
+          "Portugal": "Visa required (special restrictions)",
+          "Germany": "Visa required (special restrictions)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Oman",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Pakistan",
+        "bestMonths": ["March", "April", "October", "November"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Polio (proof may be required)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Philippines",
+        "bestMonths": ["December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 30 days",
+          "Portugal": "Visa-free for up to 30 days",
+          "Germany": "Visa-free for up to 30 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Qatar",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Russia",
+        "bestMonths": [""],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Saudi Arabia",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Meningococcal (for Hajj and Umrah pilgrims)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Singapore",
+        "bestMonths": ["February", "March", "April", "May", "June", "July"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "South Korea",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "K-ETA required",
+          "Portugal": "K-ETA required",
+          "Germany": "K-ETA required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Sri Lanka",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Electronic Travel Authorization (ETA) required",
+          "Portugal": "Electronic Travel Authorization (ETA) required",
+          "Germany": "Electronic Travel Authorization (ETA) required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Dengue prevention"]
+        }
+      },
+      {
+        "country": "Syria",
+        "bestMonths": ["March", "April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa required (travel not advised)",
+          "Portugal": "Visa required (travel not advised)",
+          "Germany": "Visa required (travel not advised)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Polio", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Taiwan",
+        "bestMonths": ["April", "May", "October", "November"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Tajikistan",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Polio (proof may be required)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Thailand",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 45 days",
+          "Portugal": "Visa-free for up to 45 days",
+          "Germany": "Visa-free for up to 45 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Timor-Leste",
+        "bestMonths": ["May", "June, July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa not required (former colony)",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Turkey",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Turkmenistan",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa required (Letter of Invitation needed)",
+          "Portugal": "Visa required (Letter of Invitation needed)",
+          "Germany": "Visa required (Letter of Invitation needed)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "United Arab Emirates",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Uzbekistan",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 30 days",
+          "Portugal": "Visa-free for up to 30 days",
+          "Germany": "Visa-free for up to 30 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Vietnam",
+        "bestMonths": ["February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 15 days",
+          "Portugal": "Visa required",
+          "Germany": "Visa-free for up to 15 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Yemen",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required (travel not advised)",
+          "Portugal": "Visa required (travel not advised)",
+          "Germany": "Visa required (travel not advised)"
+        },
+        "vaccines": {
+          "mandatory": ["Polio (proof may be required)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Cholera"]
+        }
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "country": "Algeria",
+        "bestMonths": ["March", "April", "May", "September", "October", "November"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Polio (proof may be required)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Angola",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Benin",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Botswana",
+        "bestMonths": ["May", "June", "July", "August", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Burkina Faso",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Burundi",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Cameroon",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Cholera", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Cape Verde",
+        "bestMonths": ["November", "December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa not required (pre-registration needed)",
+          "Portugal": "Visa not required (pre-registration needed)",
+          "Germany": "Visa not required (pre-registration needed)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Central African Republic",
+        "bestMonths": ["December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Cholera", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Chad",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever", "Polio (proof may be required)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Cholera", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Egypt",
+        "bestMonths": ["October", "November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa on arrival or eVisa",
+          "Portugal": "Visa on arrival or eVisa",
+          "Germany": "Visa on arrival or eVisa"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Ethiopia",
+        "bestMonths": ["October", "November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if coming from infected area)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Cholera", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Ghana",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Kenya",
+        "bestMonths": ["January", "February", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Morocco",
+        "bestMonths": ["March", "April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Nigeria",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever", "Polio (proof may be required)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "South Africa",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis (in some regions)"]
+        }
+      },
+      {
+        "country": "Tanzania",
+        "bestMonths": ["June", "July", "August", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa on arrival or eVisa",
+          "Portugal": "Visa on arrival or eVisa",
+          "Germany": "Visa on arrival or eVisa"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if coming from infected area)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Tunisia",
+        "bestMonths": ["March", "April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "Uganda",
+        "bestMonths": ["June", "July", "August", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Zambia",
+        "bestMonths": ["May", "June", "July", "August", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if coming from infected area)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Zimbabwe",
+        "bestMonths": ["May", "June", "July", "August", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if coming from infected area)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Ivory Coast",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "E-visa required",
+          "Portugal": "E-visa required",
+          "Germany": "E-visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Madagascar",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Mozambique",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa required",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if coming from infected area)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Cholera", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Sierra Leone",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Cholera", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Sudan",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Polio (proof may be required)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "South Sudan",
+        "bestMonths": ["December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required (travel not advised)",
+          "Portugal": "Visa required (travel not advised)",
+          "Germany": "Visa required (travel not advised)"
+        },
+        "vaccines": {
+          "mandatory": ["Polio (proof may be required)", "Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Cholera", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Liberia",
+        "bestMonths": ["December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Cholera", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Gambia",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 28 days",
+          "Portugal": "Visa required",
+          "Germany": "Visa-free for up to 28 days"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever (if coming from infected area)"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid", "Malaria prophylaxis"]
+        }
+      },
+      {
+        "country": "Senegal",
+        "bestMonths": ["November", "December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Libya",
+        "bestMonths": ["March", "April", "October", "November"],
+        "visaRequirements": {
+          "France": "Visa required (travel not advised)",
+          "Portugal": "Visa required (travel not advised)",
+          "Germany": "Visa required (travel not advised)"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "country": "St-Martin",
+        "bestMonths": ["December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Sint Maarten",
+        "bestMonths": ["December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Haiti",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Dominican Rep.",
+        "bestMonths": ["December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": ["None"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Cuba",
+        "bestMonths": ["December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Tourist card required",
+          "Portugal": "Tourist card required",
+          "Germany": "Tourist card required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Curaçao",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Aruba",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Bahamas",
+        "bestMonths": ["December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Turks and Caicos Is.",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "St. Pierre and Miquelon",
+        "bestMonths": ["July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa-free",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Grenada",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A"]
+        }
+      },
+      {
+        "country": "St. Vin. and Gren.",
+        "bestMonths": ["December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Barbados",
+        "bestMonths": ["December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Saint Lucia",
+        "bestMonths": ["December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Dominica",
+        "bestMonths": ["December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Montserrat",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Antigua and Barb.",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "St. Kitts and Nevis",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "U.S. Virgin Is.",
+        "bestMonths": ["December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "St-Barthélemy",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Puerto Rico",
+        "bestMonths": ["December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Anguilla",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "British Virgin Is.",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Jamaica",
+        "bestMonths": ["December", "January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Cayman Is.",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Bermuda",
+        "bestMonths": ["May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Palestine",
+        "bestMonths": ["March", "April", "May", "October", "November"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Hong Kong",
+        "bestMonths": ["October", "November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "N. Cyprus",
+        "bestMonths": ["April", "May", "June", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Siachen Glacier",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Special permit required",
+          "Portugal": "Special permit required",
+          "Germany": "Special permit required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Indian Ocean Ter.",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Macao",
+        "bestMonths": ["October", "November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Falkland Is.",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "S. Sudan",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Somalia",
+        "bestMonths": ["December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Malawi",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Somaliland",
+        "bestMonths": ["December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "W. Sahara",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Congo",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Dem. Rep. Congo",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Namibia",
+        "bestMonths": ["April", "May", "June", "August", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Guinea",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Central African Rep.",
+        "bestMonths": ["December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Djibouti",
+        "bestMonths": ["December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Eritrea",
+        "bestMonths": ["December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Côte d'Ivoire",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Mali",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "eSwatini",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 30 days",
+          "Portugal": "Visa-free for up to 30 days",
+          "Germany": "Visa-free for up to 30 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Rwanda",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Lesotho",
+        "bestMonths": ["May", "June", "July", "August"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Gabon",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Niger",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Togo",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Guinea-Bissau",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Mauritania",
+        "bestMonths": ["November", "December", "January", "February"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Eq. Guinea",
+        "bestMonths": ["June", "July", "August"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Comoros",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "São Tomé and Principe",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 15 days",
+          "Portugal": "Visa-free for up to 15 days",
+          "Germany": "Visa-free for up to 15 days"
+        },
+        "vaccines": {
+          "mandatory": ["Yellow Fever"],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Cabo Verde",
+        "bestMonths": ["November", "December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Ukraine",
+        "bestMonths": ["May", "June", "September"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Czechia",
+        "bestMonths": ["May", "June", "September"],
+        "visaRequirements": {
+          "France": "No visa required",
+          "Portugal": "No visa required",
+          "Germany": "No visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Liechtenstein",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "No visa required",
+          "Portugal": "No visa required",
+          "Germany": "No visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "San Marino",
+        "bestMonths": ["May", "June", "September"],
+        "visaRequirements": {
+          "France": "No visa required",
+          "Portugal": "No visa required",
+          "Germany": "No visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Monaco",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "No visa required",
+          "Portugal": "No visa required",
+          "Germany": "No visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Andorra",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "No visa required",
+          "Portugal": "No visa required",
+          "Germany": "No visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Bosnia and Herz.",
+        "bestMonths": ["May", "June", "September"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Vatican",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "No visa required",
+          "Portugal": "No visa required",
+          "Germany": "No visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Malta",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "No visa required",
+          "Portugal": "No visa required",
+          "Germany": "No visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Jersey",
+        "bestMonths": ["May", "June", "July", "September"],
+        "visaRequirements": {
+          "France": "No visa required",
+          "Portugal": "No visa required",
+          "Germany": "No visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Guernsey",
+        "bestMonths": ["May", "June", "July", "September"],
+        "visaRequirements": {
+          "France": "No visa required",
+          "Portugal": "No visa required",
+          "Germany": "No visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Isle of Man",
+        "bestMonths": ["May", "June", "July", "September"],
+        "visaRequirements": {
+          "France": "No visa required",
+          "Portugal": "No visa required",
+          "Germany": "No visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Åland",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "No visa required",
+          "Portugal": "No visa required",
+          "Germany": "No visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Faeroe Is.",
+        "bestMonths": ["June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "No visa required",
+          "Portugal": "No visa required",
+          "Germany": "No visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Pitcairn Is.",
+        "bestMonths": ["April", "May", "September", "October"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Fr. Polynesia",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa-free",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Kiribati",
+        "bestMonths": ["April", "May", "June", "July"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Marshall Is.",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Norfolk Island",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Cook Is.",
+        "bestMonths": ["May", "June", "July", "August"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 31 days",
+          "Portugal": "Visa-free for up to 31 days",
+          "Germany": "Visa-free for up to 31 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Tonga",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Wallis and Futuna Is.",
+        "bestMonths": ["May", "June", "July", "August"],
+        "visaRequirements": {
+          "France": "Visa-free",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Samoa",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Solomon Is.",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Tuvalu",
+        "bestMonths": ["May", "June", "July", "August"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Nauru",
+        "bestMonths": ["May", "June", "July", "August"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Micronesia",
+        "bestMonths": ["December", "January", "February", "March"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 90 days",
+          "Portugal": "Visa-free for up to 90 days",
+          "Germany": "Visa-free for up to 90 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Niue",
+        "bestMonths": ["May", "June", "July", "August"],
+        "visaRequirements": {
+          "France": "Visa-free for up to 30 days",
+          "Portugal": "Visa-free for up to 30 days",
+          "Germany": "Visa-free for up to 30 days"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "American Samoa",
+        "bestMonths": ["May", "June", "July", "August", "September"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Palau",
+        "bestMonths": ["January", "February", "March", "April", "May"],
+        "visaRequirements": {
+          "France": "Visa on arrival",
+          "Portugal": "Visa on arrival",
+          "Germany": "Visa on arrival"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations", "Hepatitis A", "Typhoid"]
+        }
+      },
+      {
+        "country": "Guam",
+        "bestMonths": ["January", "February", "March", "April"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "N. Mariana Is.",
+        "bestMonths": ["January", "February", "March", "April", "May"],
+        "visaRequirements": {
+          "France": "Visa required",
+          "Portugal": "Visa required",
+          "Germany": "Visa required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      },
+      {
+        "country": "Ashmore and Cartier Is.",
+        "bestMonths": ["May", "June", "July", "August"],
+        "visaRequirements": {
+          "France": "Special permit required",
+          "Portugal": "Special permit required",
+          "Germany": "Special permit required"
+        },
+        "vaccines": {
+          "mandatory": [],
+          "recommended": ["Routine vaccinations"]
+        }
+      }
+      
+  ]
+  

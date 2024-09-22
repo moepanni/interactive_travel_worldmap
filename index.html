@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Interactive World Map</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Best Months to Travel - Interactive World Map</h1>
+
+  <!-- Month Selection Dropdown (Wrapped in a div for better positioning) -->
+  <div id="month-container">
+    <label for="month-select">Select a Month:</label>
+    <select id="month-select">
+      <!-- Options will be added via JavaScript -->
+    </select>
+  </div>
+
+  <!-- Map Container -->
+  <div id="map"></div>
+
+  <!-- Tooltip -->
+  <div id="tooltip" class="hidden">
+    <h2 id="tooltip-country"></h2>
+    <p id="tooltip-content"></p>
+  </div>
+
+  <!-- Include D3.js Library -->
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <!-- Include Your Script -->
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
