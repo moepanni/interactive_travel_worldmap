@@ -23,8 +23,8 @@ const path = d3.geoPath().projection(projection);
 
 // Load data files
 Promise.all([
-  d3.json('data/world.geojson'),
-  d3.json('data/travel_data.json')
+  d3.json('world.geojson'),
+  d3.json('travel_data.json')
 ])
   .then(([geoData, travelData]) => {
     drawMap(geoData, travelData);
