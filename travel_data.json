@@ -1396,7 +1396,7 @@
       },
       {
         "country": "Russia",
-        "bestMonths": [""],
+        "bestMonths": ["June", "July", "August"],
         "visaRequirements": {
           "France": "Visa-free for up to 90 days",
           "Portugal": "Visa-free for up to 90 days",
