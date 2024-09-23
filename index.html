@@ -4,16 +4,104 @@
   <meta charset="UTF-8">
   <title>Interactive World Map</title>
   <link rel="stylesheet" href="styles.css">
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    /* General body styling */
+    body {
+      font-family: 'Poppins', sans-serif; /* Stylish font */
+      margin: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      font-weight: 600; /* Bold font */
+    }
+
+    /* Styling for the top container holding button and dropdown */
+    #top-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    /* Button styling for 'Everything in One Image' */
+    .button {
+      background-color: black;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      font-size: 16px;
+      border-radius: 5px;
+      font-weight: 600;
+      width: 220px; /* Set width of the button to control the size */
+      text-align: center;
+    }
+
+    .button:hover {
+      background-color: #333;
+    }
+
+    /* Styling for the month dropdown */
+    #month-container {
+      display: flex;
+      align-items: center; /* Align label and select horizontally */
+    }
+
+    label {
+      color: black; /* Make label visible */
+      font-weight: 600;
+      margin-right: 10px;
+      font-size: 16px;
+    }
+
+    select {
+      padding: 10px 20px;
+      background-color: black;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 600;
+      width: 220px; /* Same width as the button */
+    }
+
+    /* Map container */
+    #map {
+      margin-top: 20px;
+    }
+
+  </style>
 </head>
 <body>
   <h1>Best Months to Travel - Interactive World Map</h1>
 
-  <!-- Month Selection Dropdown (Wrapped in a div for better positioning) -->
-  <div id="month-container">
-    <label for="month-select">Select a Month:</label>
-    <select id="month-select">
-      <!-- Options will be added via JavaScript -->
-    </select>
+  <!-- Top container for button and dropdown -->
+  <div id="top-container">
+    <!-- Left-aligned button -->
+    <a href="second-page.html" class="button">Everything in One Image</a>
+
+    <!-- Right-aligned month dropdown and label -->
+    <div id="month-container">
+      <label for="month-select">Select a month:</label>
+      <select id="month-select">
+        <option value="All">All</option>
+        <option value="January">January</option>
+        <option value="February">February</option>
+        <option value="March">March</option>
+        <option value="April">April</option>
+        <option value="May">May</option>
+        <option value="June">June</option>
+        <option value="July">July</option>
+        <option value="August">August</option>
+        <option value="September">September</option>
+        <option value="October">October</option>
+        <option value="November">November</option>
+        <option value="December">December</option>
+      </select>
+    </div>
   </div>
 
   <!-- Map Container -->
@@ -31,6 +119,3 @@
   <script src="script.js"></script>
 </body>
 </html>
-
-
-
