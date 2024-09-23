@@ -5,39 +5,42 @@
   <title>More Informations</title>
   <link rel="stylesheet" href="styles.css">
   <style>
-    /* Add custom styles to center the image and button */
+    /* Center the content and remove extra spacing */
     body {
       text-align: center;
       font-family: Arial, sans-serif;
+      margin: 0; /* Remove default body margin */
+      padding: 0; /* Remove default body padding */
     }
 
     h1 {
-      margin-bottom: 10px; /* Reduce space below the header */
+      margin-bottom: 5px; /* Reduce space below the header */
+      font-size: 2em; /* Adjust the font size */
     }
 
     img {
       display: block;
-      margin: 10px auto; /* Reduce margin space around the image */
-      width: 90%; /* Make the image take 90% of the width */
-      max-width: 1200px; /* Limit the maximum size */
-      height: auto; /* Keep aspect ratio */
+      margin: 0 auto 5px auto; /* Minimize space around the image */
+      width: 95%; /* Make the image take more space */
+      max-width: 1400px; /* Ensure the image doesn't become too large */
+      height: auto; /* Maintain aspect ratio */
     }
 
     iframe {
       width: 100%;
-      height: 80vh; /* Adjusts to take up 80% of viewport height */
+      height: 80vh; /* Set a height for the spreadsheet to take most of the page */
       border: none;
-      margin: 10px 0; /* Reduce space above and below the iframe */
+      margin: 5px 0; /* Minimize space around the iframe */
     }
 
     a.button {
       display: inline-block;
-      padding: 20px 40px; /* Keep the button large */
-      margin-top: 10px; /* Reduce space above the button */
+      padding: 15px 30px; /* Adjust padding to increase button size */
+      margin-top: 10px; /* Slight space between spreadsheet and button */
       background-color: black;
       color: white;
       text-decoration: none;
-      border-radius: 10px;
+      border-radius: 8px; /* Slightly rounded corners */
       font-size: 20px; /* Increase font size */
     }
 
@@ -49,6 +52,7 @@
       display: flex;
       flex-direction: column;
       align-items: center;
+      justify-content: center;
     }
 
   </style>
@@ -60,7 +64,7 @@
     <!-- Display the JPG Image -->
     <img src="best_travel_times_worldmap.png" alt="Your Image">
 
-    <!-- Embed Google Spreadsheet (make it full-screen width) -->
+    <!-- Embed Google Spreadsheet (adjust to be fullscreen width) -->
     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR89tOV-OtYmK9-XdHZzTyBfIEVpMVMSQDUasFU8Z2-5By3NL8Ya63TunqM2YBd-fUIdwlZbazWM_rT/pubhtml?widget=true&amp;headers=false"></iframe>
 
     <!-- Link back to the homepage -->
