@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Countries Traveled</title>
+  <link rel="stylesheet" href="styles.css">
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    /* General body styling */
+    body {
+      font-family: 'Poppins', sans-serif; /* Stylish font */
+      margin: 20px;
+    }
+
+    /* Counter styling */
+    #counter-container {
+      display: flex;
+      justify-content: space-around;
+      margin-bottom: 20px;
+    }
+
+    .counter {
+      font-size: 18px;
+      font-weight: 600;
+      color: black;
+    }
+
+    /* Map container */
+    #map {
+      margin-top: 20px;
+      width: 100%;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    /* Tooltip styling */
+    #tooltip {
+      position: absolute;
+      background-color: rgba(255, 255, 255, 0.9);
+      padding: 8px 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      pointer-events: none;
+      z-index: 10;
+      font-size: 14px;
+      line-height: 1.2;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    /* Ensure paths (countries) on the map are clickable and have hover effect */
+    path {
+      cursor: pointer;
+      fill: white;
+      stroke: black;
+      stroke-width: 0.5;
+    }
+
+    path:hover {
+      fill: lightgray;
+    }
+
+    /* Back button styling */
+    #back-button {
+      background-color: black;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      font-size: 16px;
+      border-radius: 5px;
+      font-weight: 600;
+      display: block;
+      width: 220px;
+      text-align: center;
+      margin: 30px auto;
+    }
+
+    #back-button:hover {
+      background-color: #333;
+    }
+  </style>
+</head>
+<body>
+  <!-- Counter container -->
+  <div id="counter-container">
+    <div class="counter">Countries Missing: <span id="countries-missing">195</span></div>
+    <div class="counter">Countries Traveled: <span id="countries-traveled">0</span></div>
+  </div>
+
+  <!-- Map Container -->
+  <div id="map"></div>
+
+  <!-- Tooltip -->
+  <div id="tooltip" class="hidden"></div>
+
+  <!-- Back to homepage button -->
+  <a href="index.html" id="back-button">Back to Homepage</a>
+
+  <!-- Include D3.js Library -->
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <!-- Correctly refer to the JS file -->
+  <script src="countries-traveled.js"></script>
+</body>
+</html>
