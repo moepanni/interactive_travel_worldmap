@@ -21,7 +21,7 @@ const svg = d3.select("#map").append("svg")
 const tooltip = d3.select("#tooltip");
 
 // Load the world.geojson file (use the correct path to the file)
-d3.json("data/world.geojson").then(function(geojson) {
+d3.json("world.geojson").then(function(geojson) {
   svg.selectAll("path")
     .data(geojson.features)
     .enter().append("path")
