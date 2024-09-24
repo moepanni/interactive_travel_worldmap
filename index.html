@@ -26,6 +26,14 @@
       margin-bottom: 20px;
     }
 
+    /* Styling for button container */
+    #button-container {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start; /* Align buttons to the left */
+      gap: 10px; /* Add a gap of 10px between buttons */
+    }
+
     /* Button styling for 'More Information' and 'Countries Traveled' */
     .button {
       background-color: black;
@@ -130,8 +138,11 @@
 
   <!-- Top container for button and dropdown -->
   <div id="top-container">
-    <!-- Left-aligned button -->
-    <a href="second-page.html" class="button">More Information</a>
+    <!-- Left-aligned buttons in a vertical stack -->
+    <div id="button-container">
+      <a href="second-page.html" class="button">More Information</a>
+      <a href="countries-traveled.html" class="button">Countries Traveled</a>
+    </div>
 
     <!-- Right-aligned month dropdown and label -->
     <div id="month-container">
@@ -165,9 +176,6 @@
     <h2 id="tooltip-country"></h2>
     <p id="tooltip-content"></p>
   </div>
-
-  <!-- Add the Countries Traveled Button below 'More Information' -->
-  <a href="countries-traveled.html" class="button">Countries Traveled</a>
 
   <!-- Include D3.js Library -->
   <script src="https://d3js.org/d3.v6.min.js"></script>
