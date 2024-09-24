@@ -1,6 +1,5 @@
 const width = 960;
 const height = 600;
-let countriesMissing = 195;  // Total number of countries
 let countriesTraveled = 0;   // Initially, no countries are traveled
 
 // Load stored traveled countries from localStorage if available
@@ -22,6 +21,10 @@ const tooltip = d3.select("#tooltip");
 
 // Load the world.geojson file (use the correct path to the file)
 d3.json("world.geojson").then(function(geojson) {
+  // Dynamically count total number of countries in the GeoJSON file
+  const totalCountries = geojson.features.length;
+  let countriesMissing = totalCountries;  // Initialize with the total number of countries
+
   svg.selectAll("path")
     .data(geojson.features)
     .enter().append("path")
@@ -69,7 +72,7 @@ d3.json("world.geojson").then(function(geojson) {
 
   // Initialize the counters based on the number of traveled countries
   countriesTraveled = Object.keys(traveledCountries).length;
-  countriesMissing = 195 - countriesTraveled;
+  countriesMissing = totalCountries - countriesTraveled;
 
   // Update counters in the DOM
   d3.select("#countries-traveled").text(countriesTraveled);
@@ -77,3 +80,4 @@ d3.json("world.geojson").then(function(geojson) {
 }).catch(function(error) {
   console.error("Error loading the GeoJSON file:", error);
 });
+
