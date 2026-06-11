@@ -21,46 +21,65 @@
 
     <!-- PLANNER TAB -->
     <div class="tab-panel active" id="tab-planner">
-      <div class="ctrl-row">
-        <span class="ctrl-label">Month</span>
-        <div class="pills" id="month-pills">
-          <button class="pill active" data-month="All">All</button>
-          <button class="pill" data-month="January">Jan</button>
-          <button class="pill" data-month="February">Feb</button>
-          <button class="pill" data-month="March">Mar</button>
-          <button class="pill" data-month="April">Apr</button>
-          <button class="pill" data-month="May">May</button>
-          <button class="pill" data-month="June">Jun</button>
-          <button class="pill" data-month="July">Jul</button>
-          <button class="pill" data-month="August">Aug</button>
-          <button class="pill" data-month="September">Sep</button>
-          <button class="pill" data-month="October">Oct</button>
-          <button class="pill" data-month="November">Nov</button>
-          <button class="pill" data-month="December">Dec</button>
+
+      <!-- Month + Passport row: month left, passport right -->
+      <div class="ctrl-row ctrl-split">
+        <div class="ctrl-left">
+          <span class="ctrl-label">Month</span>
+          <div class="pills">
+            <button class="pill active" data-month="All">All</button>
+            <button class="pill" data-month="January">Jan</button>
+            <button class="pill" data-month="February">Feb</button>
+            <button class="pill" data-month="March">Mar</button>
+            <button class="pill" data-month="April">Apr</button>
+            <button class="pill" data-month="May">May</button>
+            <button class="pill" data-month="June">Jun</button>
+            <button class="pill" data-month="July">Jul</button>
+            <button class="pill" data-month="August">Aug</button>
+            <button class="pill" data-month="September">Sep</button>
+            <button class="pill" data-month="October">Oct</button>
+            <button class="pill" data-month="November">Nov</button>
+            <button class="pill" data-month="December">Dec</button>
+          </div>
         </div>
-        <span class="ctrl-label">Passport</span>
-        <select id="passport-select">
-          <option value="France">🇫🇷 France</option>
-          <option value="Germany">🇩🇪 Germany</option>
-          <option value="Portugal">🇵🇹 Portugal</option>
-        </select>
+        <div class="ctrl-right">
+          <span class="ctrl-label">Passport</span>
+          <select id="passport-select">
+            <option value="France">🇫🇷 France</option>
+            <option value="Germany">🇩🇪 Germany</option>
+            <option value="Portugal">🇵🇹 Portugal</option>
+          </select>
+        </div>
       </div>
+
+      <!-- Filter row -->
+      <div class="ctrl-row">
+        <span class="ctrl-label">Show</span>
+        <div class="filter-btns">
+          <button class="filter-btn active" data-filter="all">All</button>
+          <button class="filter-btn" data-filter="sovereign">Countries</button>
+          <button class="filter-btn" data-filter="territory">Territories</button>
+          <button class="filter-btn" data-filter="disputed">Disputed</button>
+        </div>
+      </div>
+
+      <!-- Stats -->
       <div class="stats">
         <div class="stat"><span class="sn" id="stat-good">—</span><span class="sl">great to visit</span></div>
         <div class="stat"><span class="sn green" id="stat-vf">—</span><span class="sl">visa-free for you</span></div>
       </div>
+
       <div id="map"></div>
+
       <div class="legend">
         <div class="li"><div class="ld" style="background:#3bc9a0"></div>Great time to visit</div>
-        <div class="li"><div class="ld" style="background:#1e2640"></div>Off-season</div>
-        <div class="li"><div class="ld" style="background:#161a28"></div>No data</div>
+        <div class="li"><div class="ld" style="background:#2a3352"></div>Off-season / no data</div>
       </div>
     </div>
 
     <!-- TRACKER TAB -->
     <div class="tab-panel" id="tab-tracker">
       <div class="ctrl-row">
-        <p class="hint">Click any country to mark it visited. Saved <strong>locally</strong> in your browser.</p>
         <button class="reset-btn" id="reset-btn">Reset all</button>
       </div>
       <div class="stats">
@@ -69,15 +88,10 @@
         <div class="stat"><span class="sn muted" id="countries-missing">—</span><span class="sl">still to go</span></div>
       </div>
       <div id="map-tracker"></div>
-      <div class="legend">
-        <div class="li"><div class="ld" style="background:#f0a500"></div>Visited</div>
-        <div class="li"><div class="ld" style="background:#161a28"></div>Not yet</div>
-      </div>
     </div>
 
   </main>
 
-  <!-- Tooltip -->
   <div id="tooltip" class="hidden">
     <div id="tt-name"></div>
     <div id="tt-body"></div>
