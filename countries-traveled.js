@@ -1,83 +1,92 @@
-const width = 960;
-const height = 600;
-let countriesTraveled = 0;   // Initially, no countries are traveled
+// countries-traveled.js — My Travels tracker
 
-// Load stored traveled countries from localStorage if available
-let traveledCountries = JSON.parse(localStorage.getItem("traveledCountries")) || {};
+var traveledCountries = {};
+try { traveledCountries = JSON.parse(localStorage.getItem('wm_traveled') || '{}'); } catch(e) {}
 
-// Projection for the map
-const projection = d3.geoMercator()
-  .scale(130)
-  .translate([width / 2, height / 1.5]);
+var totalCountries = 0;
 
-const path = d3.geoPath().projection(projection);
+var projT = d3.geoNaturalEarth1().scale(148).translate([480, 270]);
+var pathT = d3.geoPath().projection(projT);
 
-// Create the SVG for the map
-const svg = d3.select("#map").append("svg")
-  .attr("width", width)
-  .attr("height", height);
+var tooltipT = document.getElementById('tooltip');
 
-const tooltip = d3.select("#tooltip");
+function updateTrackerStats() {
+  var v = Object.keys(traveledCountries).length;
+  var pct = totalCountries ? Math.round(v / totalCountries * 100) : 0;
+  document.getElementById('countries-traveled').textContent = v;
+  document.getElementById('stat-pct').textContent = pct + '%';
+  document.getElementById('countries-missing').textContent = Math.max(0, totalCountries - v);
+}
 
-// Load the world.geojson file (use the correct path to the file)
-d3.json("world.geojson").then(function(geojson) {
-  // Dynamically count total number of countries in the GeoJSON file
-  const totalCountries = geojson.features.length;
-  let countriesMissing = totalCountries;  // Initialize with the total number of countries
+function showTrackerTooltip(event, name) {
+  document.getElementById('tt-name').textContent = name;
+  document.getElementById('tt-body').innerHTML =
+    '<div class="tt-section"><p class="' + (traveledCountries[name] ? 'tt-visited' : 'tt-nodata') + '">' +
+    (traveledCountries[name] ? '&#10003; Visited' : 'Click to mark as visited') + '</p></div>';
+  var w = 280, h = tooltipT.offsetHeight || 80;
+  var vw = window.innerWidth, vh = window.innerHeight;
+  var x = event.clientX + 16, y = event.clientY - 10;
+  if (x + w > vw - 8) x = event.clientX - w - 16;
+  if (y + h > vh - 8) y = vh - h - 8;
+  if (y < 8) y = 8;
+  tooltipT.style.left = x + 'px';
+  tooltipT.style.top  = y + 'px';
+  tooltipT.classList.remove('hidden');
+}
 
-  svg.selectAll("path")
-    .data(geojson.features)
-    .enter().append("path")
-    .attr("d", path)
-    .attr("id", d => d.properties.name)  // Set ID for countries using their name
-    .attr("class", d => traveledCountries[d.properties.name] ? "traveled" : "")  // Add class if country is already traveled
-    .style("fill", d => traveledCountries[d.properties.name] ? "green" : "white")  // Set initial color based on saved state
-    .on("mouseover", function(event, d) {
-      tooltip.html(d.properties.name)
-        .style("left", (event.pageX + 10) + "px")
-        .style("top", (event.pageY - 20) + "px")
-        .classed("hidden", false);
+d3.json('world.geojson').then(function(geoData) {
+  totalCountries = geoData.features.length;
+
+  var svg = d3.select('#map-tracker')
+    .append('svg')
+    .attr('viewBox', '0 0 960 500');
+
+  svg.selectAll('path')
+    .data(geoData.features)
+    .enter().append('path')
+    .attr('class', 'country')
+    .attr('d', pathT)
+    .attr('fill', function(d) {
+      var name = d.properties.name || '';
+      return traveledCountries[name] ? '#f0a500' : '#161a28';
     })
-    .on("mouseout", function() {
-      tooltip.classed("hidden", true);
+    .on('mouseover', function(event, d) {
+      showTrackerTooltip(event, d.properties.name || '');
     })
-    .on("click", function(event, d) {
-      const countryName = d.properties.name;
-      const countryElement = d3.select(this);
-
-      // Check if the country has already been traveled
-      const isTraveled = countryElement.classed("traveled");
-
-      if (!isTraveled) {
-        // Mark as traveled
-        countryElement.style("fill", "green").classed("traveled", true);
-        countriesTraveled += 1;
-        countriesMissing -= 1;
-        traveledCountries[countryName] = true;  // Save in the traveled list
+    .on('mousemove', function(event) {
+      var w = 280, h = tooltipT.offsetHeight || 80;
+      var vw = window.innerWidth, vh = window.innerHeight;
+      var x = event.clientX + 16, y = event.clientY - 10;
+      if (x + w > vw - 8) x = event.clientX - w - 16;
+      if (y + h > vh - 8) y = vh - h - 8;
+      tooltipT.style.left = x + 'px';
+      tooltipT.style.top  = y + 'px';
+    })
+    .on('mouseout', function() { tooltipT.classList.add('hidden'); })
+    .on('click', function(event, d) {
+      var name = d.properties.name || '';
+      if (traveledCountries[name]) {
+        delete traveledCountries[name];
+        d3.select(this).attr('fill', '#161a28');
       } else {
-        // Unmark as traveled
-        countryElement.style("fill", "white").classed("traveled", false);
-        countriesTraveled -= 1;
-        countriesMissing += 1;
-        delete traveledCountries[countryName];  // Remove from the traveled list
+        traveledCountries[name] = true;
+        d3.select(this).attr('fill', '#f0a500');
       }
-
-      // Update counters
-      d3.select("#countries-traveled").text(countriesTraveled);
-      d3.select("#countries-missing").text(countriesMissing);
-
-      // Save traveled countries to localStorage
-      localStorage.setItem("traveledCountries", JSON.stringify(traveledCountries));
+      try { localStorage.setItem('wm_traveled', JSON.stringify(traveledCountries)); } catch(e) {}
+      updateTrackerStats();
+      showTrackerTooltip(event, name);
     });
 
-  // Initialize the counters based on the number of traveled countries
-  countriesTraveled = Object.keys(traveledCountries).length;
-  countriesMissing = totalCountries - countriesTraveled;
+  updateTrackerStats();
 
-  // Update counters in the DOM
-  d3.select("#countries-traveled").text(countriesTraveled);
-  d3.select("#countries-missing").text(countriesMissing);
-}).catch(function(error) {
-  console.error("Error loading the GeoJSON file:", error);
+}).catch(function(err) {
+  console.error('Error loading world.geojson for tracker:', err);
 });
 
+document.getElementById('reset-btn').addEventListener('click', function() {
+  if (!confirm('Reset all visited countries?')) return;
+  traveledCountries = {};
+  try { localStorage.removeItem('wm_traveled'); } catch(e) {}
+  d3.select('#map-tracker svg').selectAll('path.country').attr('fill', '#161a28');
+  updateTrackerStats();
+});
