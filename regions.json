@@ -1,0 +1,1116 @@
+{
+  "United States of America": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Contiguous United States",
+        "type": "mainland"
+      },
+      {
+        "name": "Hawaii",
+        "type": "island_state"
+      },
+      {
+        "name": "Alaska",
+        "type": "state"
+      },
+      {
+        "name": "Puerto Rico",
+        "type": "territory"
+      },
+      {
+        "name": "U.S. Virgin Islands",
+        "type": "territory"
+      },
+      {
+        "name": "Guam",
+        "type": "territory"
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "type": "territory"
+      },
+      {
+        "name": "American Samoa",
+        "type": "territory"
+      }
+    ]
+  },
+  "France": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Metropolitan France",
+        "type": "mainland"
+      },
+      {
+        "name": "French Guiana",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Martinique",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Guadeloupe",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Réunion",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Mayotte",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "French Polynesia",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "New Caledonia",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Saint-Martin",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Saint-Barthélemy",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Saint Pierre and Miquelon",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Wallis and Futuna",
+        "type": "overseas_territory"
+      }
+    ]
+  },
+  "Portugal": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland Portugal",
+        "type": "mainland"
+      },
+      {
+        "name": "Madeira",
+        "type": "autonomous_island"
+      },
+      {
+        "name": "Azores",
+        "type": "autonomous_island"
+      }
+    ]
+  },
+  "Spain": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland Spain",
+        "type": "mainland"
+      },
+      {
+        "name": "Canary Islands",
+        "type": "autonomous_island"
+      },
+      {
+        "name": "Balearic Islands",
+        "type": "autonomous_island"
+      },
+      {
+        "name": "Ceuta",
+        "type": "exclave"
+      },
+      {
+        "name": "Melilla",
+        "type": "exclave"
+      }
+    ]
+  },
+  "United Kingdom": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "England",
+        "type": "constituent_country"
+      },
+      {
+        "name": "Scotland",
+        "type": "constituent_country"
+      },
+      {
+        "name": "Wales",
+        "type": "constituent_country"
+      },
+      {
+        "name": "Northern Ireland",
+        "type": "constituent_country"
+      },
+      {
+        "name": "Gibraltar",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Falkland Islands",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Bermuda",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Cayman Islands",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "British Virgin Islands",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Turks and Caicos Islands",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Anguilla",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Montserrat",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Saint Helena",
+        "type": "overseas_territory"
+      },
+      {
+        "name": "Isle of Man",
+        "type": "crown_dependency"
+      },
+      {
+        "name": "Jersey",
+        "type": "crown_dependency"
+      },
+      {
+        "name": "Guernsey",
+        "type": "crown_dependency"
+      }
+    ]
+  },
+  "Australia": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "New South Wales",
+        "type": "state"
+      },
+      {
+        "name": "Victoria",
+        "type": "state"
+      },
+      {
+        "name": "Queensland",
+        "type": "state"
+      },
+      {
+        "name": "Western Australia",
+        "type": "state"
+      },
+      {
+        "name": "South Australia",
+        "type": "state"
+      },
+      {
+        "name": "Tasmania",
+        "type": "island_state"
+      },
+      {
+        "name": "Northern Territory",
+        "type": "territory"
+      },
+      {
+        "name": "Australian Capital Territory",
+        "type": "territory"
+      },
+      {
+        "name": "Kangaroo Island",
+        "type": "island"
+      },
+      {
+        "name": "Lord Howe Island",
+        "type": "island"
+      },
+      {
+        "name": "Norfolk Island",
+        "type": "territory"
+      },
+      {
+        "name": "Christmas Island",
+        "type": "territory"
+      },
+      {
+        "name": "Cocos Islands",
+        "type": "territory"
+      }
+    ]
+  },
+  "Denmark": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland Denmark",
+        "type": "mainland"
+      },
+      {
+        "name": "Greenland",
+        "type": "autonomous_territory"
+      },
+      {
+        "name": "Faroe Islands",
+        "type": "autonomous_territory"
+      },
+      {
+        "name": "Bornholm",
+        "type": "island"
+      }
+    ]
+  },
+  "Netherlands": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland Netherlands",
+        "type": "mainland"
+      },
+      {
+        "name": "Aruba",
+        "type": "constituent_country"
+      },
+      {
+        "name": "Curaçao",
+        "type": "constituent_country"
+      },
+      {
+        "name": "Sint Maarten",
+        "type": "constituent_country"
+      },
+      {
+        "name": "Bonaire",
+        "type": "special_municipality"
+      },
+      {
+        "name": "Sint Eustatius",
+        "type": "special_municipality"
+      },
+      {
+        "name": "Saba",
+        "type": "special_municipality"
+      }
+    ]
+  },
+  "Norway": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland Norway",
+        "type": "mainland"
+      },
+      {
+        "name": "Svalbard",
+        "type": "territory"
+      },
+      {
+        "name": "Jan Mayen",
+        "type": "territory"
+      },
+      {
+        "name": "Lofoten Islands",
+        "type": "island_group"
+      },
+      {
+        "name": "Vesterålen",
+        "type": "island_group"
+      }
+    ]
+  },
+  "Italy": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland Italy",
+        "type": "mainland"
+      },
+      {
+        "name": "Sicily",
+        "type": "autonomous_island"
+      },
+      {
+        "name": "Sardinia",
+        "type": "autonomous_island"
+      },
+      {
+        "name": "Capri",
+        "type": "island"
+      },
+      {
+        "name": "Elba",
+        "type": "island"
+      },
+      {
+        "name": "Pantelleria",
+        "type": "island"
+      }
+    ]
+  },
+  "Greece": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland Greece",
+        "type": "mainland"
+      },
+      {
+        "name": "Crete",
+        "type": "island"
+      },
+      {
+        "name": "Rhodes",
+        "type": "island"
+      },
+      {
+        "name": "Corfu",
+        "type": "island"
+      },
+      {
+        "name": "Mykonos",
+        "type": "island"
+      },
+      {
+        "name": "Santorini",
+        "type": "island"
+      },
+      {
+        "name": "Zakynthos",
+        "type": "island"
+      },
+      {
+        "name": "Lefkada",
+        "type": "island"
+      },
+      {
+        "name": "Kefalonia",
+        "type": "island"
+      },
+      {
+        "name": "Paros",
+        "type": "island"
+      },
+      {
+        "name": "Naxos",
+        "type": "island"
+      },
+      {
+        "name": "Lesbos",
+        "type": "island"
+      },
+      {
+        "name": "Chios",
+        "type": "island"
+      },
+      {
+        "name": "Samos",
+        "type": "island"
+      },
+      {
+        "name": "Dodecanese Islands",
+        "type": "island_group"
+      },
+      {
+        "name": "Cyclades Islands",
+        "type": "island_group"
+      }
+    ]
+  },
+  "Indonesia": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Bali",
+        "type": "island"
+      },
+      {
+        "name": "Java",
+        "type": "island"
+      },
+      {
+        "name": "Sumatra",
+        "type": "island"
+      },
+      {
+        "name": "Borneo (Kalimantan)",
+        "type": "island"
+      },
+      {
+        "name": "Sulawesi",
+        "type": "island"
+      },
+      {
+        "name": "Papua",
+        "type": "island"
+      },
+      {
+        "name": "Lombok",
+        "type": "island"
+      },
+      {
+        "name": "Komodo",
+        "type": "island"
+      },
+      {
+        "name": "Flores",
+        "type": "island"
+      },
+      {
+        "name": "Raja Ampat",
+        "type": "island_group"
+      },
+      {
+        "name": "Maluku Islands",
+        "type": "island_group"
+      },
+      {
+        "name": "Nusa Tenggara",
+        "type": "island_group"
+      }
+    ]
+  },
+  "Philippines": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Luzon",
+        "type": "island"
+      },
+      {
+        "name": "Visayas",
+        "type": "island_group"
+      },
+      {
+        "name": "Mindanao",
+        "type": "island"
+      },
+      {
+        "name": "Palawan",
+        "type": "island"
+      },
+      {
+        "name": "Boracay",
+        "type": "island"
+      },
+      {
+        "name": "Cebu",
+        "type": "island"
+      },
+      {
+        "name": "Siargao",
+        "type": "island"
+      },
+      {
+        "name": "Bohol",
+        "type": "island"
+      },
+      {
+        "name": "Mindoro",
+        "type": "island"
+      }
+    ]
+  },
+  "Japan": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Honshu",
+        "type": "island"
+      },
+      {
+        "name": "Hokkaido",
+        "type": "island"
+      },
+      {
+        "name": "Kyushu",
+        "type": "island"
+      },
+      {
+        "name": "Shikoku",
+        "type": "island"
+      },
+      {
+        "name": "Okinawa",
+        "type": "island"
+      },
+      {
+        "name": "Ryukyu Islands",
+        "type": "island_group"
+      }
+    ]
+  },
+  "China": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland China",
+        "type": "mainland"
+      },
+      {
+        "name": "Hong Kong",
+        "type": "special_administrative_region"
+      },
+      {
+        "name": "Macao",
+        "type": "special_administrative_region"
+      },
+      {
+        "name": "Hainan Island",
+        "type": "island"
+      },
+      {
+        "name": "Tibet",
+        "type": "autonomous_region"
+      },
+      {
+        "name": "Xinjiang",
+        "type": "autonomous_region"
+      },
+      {
+        "name": "Inner Mongolia",
+        "type": "autonomous_region"
+      }
+    ]
+  },
+  "India": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland India",
+        "type": "mainland"
+      },
+      {
+        "name": "Andaman and Nicobar Islands",
+        "type": "island_territory"
+      },
+      {
+        "name": "Lakshadweep",
+        "type": "island_territory"
+      },
+      {
+        "name": "Goa",
+        "type": "state"
+      },
+      {
+        "name": "Kerala",
+        "type": "state"
+      },
+      {
+        "name": "Rajasthan",
+        "type": "state"
+      },
+      {
+        "name": "Himachal Pradesh",
+        "type": "state"
+      },
+      {
+        "name": "Kashmir",
+        "type": "region"
+      }
+    ]
+  },
+  "Canada": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Ontario",
+        "type": "province"
+      },
+      {
+        "name": "Quebec",
+        "type": "province"
+      },
+      {
+        "name": "British Columbia",
+        "type": "province"
+      },
+      {
+        "name": "Alberta",
+        "type": "province"
+      },
+      {
+        "name": "Manitoba",
+        "type": "province"
+      },
+      {
+        "name": "Saskatchewan",
+        "type": "province"
+      },
+      {
+        "name": "Nova Scotia",
+        "type": "province"
+      },
+      {
+        "name": "New Brunswick",
+        "type": "province"
+      },
+      {
+        "name": "Newfoundland and Labrador",
+        "type": "province"
+      },
+      {
+        "name": "Prince Edward Island",
+        "type": "island_province"
+      },
+      {
+        "name": "Northwest Territories",
+        "type": "territory"
+      },
+      {
+        "name": "Yukon",
+        "type": "territory"
+      },
+      {
+        "name": "Nunavut",
+        "type": "territory"
+      },
+      {
+        "name": "Vancouver Island",
+        "type": "island"
+      }
+    ]
+  },
+  "Mexico": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland Mexico",
+        "type": "mainland"
+      },
+      {
+        "name": "Baja California",
+        "type": "peninsula"
+      },
+      {
+        "name": "Yucatan Peninsula",
+        "type": "peninsula"
+      },
+      {
+        "name": "Cozumel",
+        "type": "island"
+      },
+      {
+        "name": "Isla Mujeres",
+        "type": "island"
+      }
+    ]
+  },
+  "Brazil": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Southeast Brazil",
+        "type": "region"
+      },
+      {
+        "name": "Northeast Brazil",
+        "type": "region"
+      },
+      {
+        "name": "Amazon Region",
+        "type": "region"
+      },
+      {
+        "name": "South Brazil",
+        "type": "region"
+      },
+      {
+        "name": "Central-West Brazil",
+        "type": "region"
+      },
+      {
+        "name": "Fernando de Noronha",
+        "type": "island"
+      },
+      {
+        "name": "Ilha Grande",
+        "type": "island"
+      },
+      {
+        "name": "Florianópolis",
+        "type": "island"
+      }
+    ]
+  },
+  "Russia": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "European Russia",
+        "type": "region"
+      },
+      {
+        "name": "Siberia",
+        "type": "region"
+      },
+      {
+        "name": "Russian Far East",
+        "type": "region"
+      },
+      {
+        "name": "Caucasus Region",
+        "type": "region"
+      },
+      {
+        "name": "Sakhalin Island",
+        "type": "island"
+      },
+      {
+        "name": "Kamchatka Peninsula",
+        "type": "peninsula"
+      },
+      {
+        "name": "Kaliningrad",
+        "type": "exclave"
+      }
+    ]
+  },
+  "New Zealand": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "North Island",
+        "type": "island"
+      },
+      {
+        "name": "South Island",
+        "type": "island"
+      },
+      {
+        "name": "Stewart Island",
+        "type": "island"
+      },
+      {
+        "name": "Chatham Islands",
+        "type": "island_group"
+      },
+      {
+        "name": "Cook Islands",
+        "type": "associated_state"
+      },
+      {
+        "name": "Niue",
+        "type": "associated_state"
+      },
+      {
+        "name": "Tokelau",
+        "type": "territory"
+      }
+    ]
+  },
+  "United Arab Emirates": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Dubai",
+        "type": "emirate"
+      },
+      {
+        "name": "Abu Dhabi",
+        "type": "emirate"
+      },
+      {
+        "name": "Sharjah",
+        "type": "emirate"
+      },
+      {
+        "name": "Ras Al Khaimah",
+        "type": "emirate"
+      },
+      {
+        "name": "Fujairah",
+        "type": "emirate"
+      },
+      {
+        "name": "Ajman",
+        "type": "emirate"
+      },
+      {
+        "name": "Umm Al Quwain",
+        "type": "emirate"
+      }
+    ]
+  },
+  "South Africa": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Western Cape",
+        "type": "province"
+      },
+      {
+        "name": "Eastern Cape",
+        "type": "province"
+      },
+      {
+        "name": "KwaZulu-Natal",
+        "type": "province"
+      },
+      {
+        "name": "Gauteng",
+        "type": "province"
+      },
+      {
+        "name": "Mpumalanga",
+        "type": "province"
+      },
+      {
+        "name": "Limpopo",
+        "type": "province"
+      },
+      {
+        "name": "North West",
+        "type": "province"
+      },
+      {
+        "name": "Free State",
+        "type": "province"
+      },
+      {
+        "name": "Northern Cape",
+        "type": "province"
+      },
+      {
+        "name": "Prince Edward Islands",
+        "type": "island_territory"
+      }
+    ]
+  },
+  "Turkey": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "European Turkey (Thrace)",
+        "type": "region"
+      },
+      {
+        "name": "Anatolia (Asian Turkey)",
+        "type": "region"
+      },
+      {
+        "name": "Cappadocia",
+        "type": "region"
+      },
+      {
+        "name": "Turkish Riviera",
+        "type": "region"
+      },
+      {
+        "name": "Istanbul",
+        "type": "city_region"
+      }
+    ]
+  },
+  "Thailand": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Central Thailand",
+        "type": "region"
+      },
+      {
+        "name": "Northern Thailand",
+        "type": "region"
+      },
+      {
+        "name": "Southern Thailand",
+        "type": "region"
+      },
+      {
+        "name": "Koh Samui",
+        "type": "island"
+      },
+      {
+        "name": "Koh Phangan",
+        "type": "island"
+      },
+      {
+        "name": "Phuket",
+        "type": "island"
+      },
+      {
+        "name": "Koh Tao",
+        "type": "island"
+      },
+      {
+        "name": "Koh Lanta",
+        "type": "island"
+      },
+      {
+        "name": "Koh Phi Phi",
+        "type": "island"
+      },
+      {
+        "name": "Koh Chang",
+        "type": "island"
+      }
+    ]
+  },
+  "Malaysia": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Peninsular Malaysia",
+        "type": "mainland"
+      },
+      {
+        "name": "Sabah (Borneo)",
+        "type": "state"
+      },
+      {
+        "name": "Sarawak (Borneo)",
+        "type": "state"
+      },
+      {
+        "name": "Langkawi",
+        "type": "island"
+      },
+      {
+        "name": "Penang Island",
+        "type": "island"
+      },
+      {
+        "name": "Tioman Island",
+        "type": "island"
+      },
+      {
+        "name": "Perhentian Islands",
+        "type": "island_group"
+      },
+      {
+        "name": "Redang Island",
+        "type": "island"
+      }
+    ]
+  },
+  "Ecuador": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland Ecuador",
+        "type": "mainland"
+      },
+      {
+        "name": "Galápagos Islands",
+        "type": "island_province"
+      }
+    ]
+  },
+  "Chile": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland Chile",
+        "type": "mainland"
+      },
+      {
+        "name": "Easter Island",
+        "type": "island"
+      },
+      {
+        "name": "Juan Fernández Islands",
+        "type": "island_group"
+      },
+      {
+        "name": "Patagonia",
+        "type": "region"
+      },
+      {
+        "name": "Atacama",
+        "type": "region"
+      }
+    ]
+  },
+  "Croatia": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "Mainland Croatia",
+        "type": "mainland"
+      },
+      {
+        "name": "Dalmatian Islands",
+        "type": "island_group"
+      },
+      {
+        "name": "Hvar",
+        "type": "island"
+      },
+      {
+        "name": "Brač",
+        "type": "island"
+      },
+      {
+        "name": "Korčula",
+        "type": "island"
+      },
+      {
+        "name": "Vis",
+        "type": "island"
+      },
+      {
+        "name": "Mljet",
+        "type": "island"
+      },
+      {
+        "name": "Krk",
+        "type": "island"
+      },
+      {
+        "name": "Dubrovnik",
+        "type": "city_region"
+      }
+    ]
+  },
+  "Cyprus": {
+    "type": "country",
+    "regions": [
+      {
+        "name": "South Cyprus",
+        "type": "region"
+      },
+      {
+        "name": "North Cyprus",
+        "type": "disputed_region"
+      },
+      {
+        "name": "Limassol",
+        "type": "city_region"
+      },
+      {
+        "name": "Larnaca",
+        "type": "city_region"
+      },
+      {
+        "name": "Paphos",
+        "type": "city_region"
+      },
+      {
+        "name": "Nicosia",
+        "type": "city_region"
+      },
+      {
+        "name": "Ayia Napa",
+        "type": "city_region"
+      }
+    ]
+  }
+}
